@@ -1,0 +1,2 @@
+Contento is a folder that keeps two main projects that are completely separate and independent. Manch and Prasaran. The overall architecture of both these are mentioned in docs/architecture.md
+Please follow the architecture
